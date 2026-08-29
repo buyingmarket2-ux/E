@@ -1,13 +1,26 @@
 const games = [
     {
-        name: "Example Game",
-        letter: "E",
-        url: "https://example.com"
-    },
-    {
-        name: "Another Game",
+        name: "Awesome Game",
         letter: "A",
-        url: "https://example.com"
+        url: "https://example.com/game1"
+    },
+
+    {
+        name: "Basketball Game",
+        letter: "B",
+        url: "https://example.com/game2"
+    },
+
+    {
+        name: "Car Game",
+        letter: "C",
+        url: "https://example.com/game3"
+    },
+
+    {
+        name: "Driving Game",
+        letter: "D",
+        url: "https://example.com/game4"
     }
 ];
 
